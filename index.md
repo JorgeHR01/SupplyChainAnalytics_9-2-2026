@@ -3,7 +3,6 @@ layout: default
 ---
 
 # Jorge Luis Hernandez Ramirez 
-
 *Supply Chain Analytics Graduate Student | UC Berkeley Political Econnomics Graduate* 
 
 San Marcos, California
