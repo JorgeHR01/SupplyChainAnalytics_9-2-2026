@@ -4,6 +4,7 @@ layout: default
 
 # Jorge Luis Hernandez Ramirez 
 *Supply Chain Analytics Graduate Student | UC Berkeley Political Econnomics Graduate* 
+
 San Marcos, California
 
 ## Summary 
@@ -13,7 +14,7 @@ I am pursuing a Master of Science in Supply Chain Analytics at California State 
 ## Work Experience 
 
 ### Operations - Family Ladnscaping Business 
-*San Diego County, California 
+*San Diego County, California | 2024-2026* 
 
 - Managed day-to-day operations, including job scheduling, materials planning, financial records, and quality control.
 - Helped annual revenue with a **19.2% increase**, through pricing improvements, bundled service packages, and operational changes.
