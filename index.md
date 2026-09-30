@@ -2,122 +2,67 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Jorge Luis Hernandez Ramirez 
 
-[Link to another page](./another-page.html).
+*Supply Chain Analytics Graduate Student | UC Berkeley Political Econnomics Graduate* 
 
-There should be whitespace between paragraphs.
+San Marcos, California
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Summary 
 
-# Header 1
+I am pursuing a Master of Science in Supply Chain Analytics at California State University San Marcos, building on my B.A. in Political Economy from UC Berkeley. My experience managing day-to-day operations for my family's landscaping business includes scheduling, pricing, cost tracking, and client communication. I am interested in combining that practical experience with data analysis to improve business decisions, with a particular interest in how technology, trade, and geopolitical risk affect supply chains.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Work Experience 
 
-## Header 2
+### Operations - Family Ladnscaping Business 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- Managed day-to-day operations, including job scheduling, materials planning, financial records, and quality control.
+- Helped annual revenue with a **19.2% increase**, through pricing improvements, bundled service packages, and operational changes.
+- Created Excel trackers to monitor job costs and margins and support pricing decisions.
+- Reorganized service routes and schedules to reduce travel time and fuel use.
+- Introduced new policies and communicated with clients in English and Spanish, helping generate referrals.
 
-### Header 3
+### Sales Representative — Project Pulse Consultancy
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+*San Diego, California | Summer 2025*
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+- Supported nonprofit-based promotion and sales through direct customer engagement.
+- Explained offerings to prospective customers and developed experience communicating in a fast-paced sales environment.
 
-#### Header 4
+### Retail Specialist — Best Buy
+*San Marcos, California | 2019-2020*
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- Helped customers compare technology products and choose options suited to their needs and budgets.
+- Developed customer service, product communication, and sales skills.
 
-##### Header 5
+## Education 
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### California State University San Marcos
 
-###### Header 6
+**Master of Science in Supply Chain Analytics**  
+*In progress | Fall 2026*
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+Developing skills in data analysis, business forecasting, and enterprise systems, with an interest in applying these tools to supply chain and operations decisions.
 
-### There's a horizontal rule below this.
+### University of California, Berkeley
 
-* * *
+**Bachelor of Arts in Political Economy**  
+*Concentration: Technology and Finance*
 
-### Here is an unordered list:
+Studied the relationships among markets, institutions, technology, and public policy, providing a foundation for understanding the broader forces shaping business and supply chains.
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+## Completed Projects 
 
-### And an ordered list:
+## Relevent Skills 
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+### Business and Operations
 
-### And a nested list:
+- **Operations coordination:** Scheduling, materials planning, route organization, and quality control.
+- **Business analysis:** Excel-based cost tracking, margin analysis, pricing, and revenue monitoring.
+- **Customer communication:** Client relations, sales, and bilingual communication in English and Spanish.
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+### Technical Skills in Development
 
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+1. **Python:** Building foundational programming and data-analysis skills.
+2. **VS Code:** Developing familiarity with editing and running Python scripts.
+3. **Data workflows:** Learning to inspect, clean, transform, validate, and document data for reproducible analysis.
