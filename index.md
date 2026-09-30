@@ -23,7 +23,6 @@ I am pursuing a Master of Science in Supply Chain Analytics at California State 
 - Introduced new policies and communicated with clients in English and Spanish, helping generate referrals.
 
 ### Sales Representative — Project Pulse Consultancy
-
 *San Diego, California | Summer 2025*
 
 - Supported nonprofit-based promotion and sales through direct customer engagement.
@@ -66,3 +65,5 @@ Studied the relationships among markets, institutions, technology, and public po
 1. **Python:** Building foundational programming and data-analysis skills.
 2. **VS Code:** Developing familiarity with editing and running Python scripts.
 3. **Data workflows:** Learning to inspect, clean, transform, validate, and document data for reproducible analysis.
+
+[Connect via Linkedin](https://linkedin.com/in/jorge-hernandez-ramirez-1ba73b2ba)
